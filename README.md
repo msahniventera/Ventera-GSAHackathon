@@ -1,2 +1,2 @@
-# Ventera-GSAHackathon
+# ventera-gsa-hackathon
 Agency GHG Emissions Reduction
